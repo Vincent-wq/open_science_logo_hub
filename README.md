@@ -10,8 +10,9 @@ A hub repo for the collection of Open Science logos to make it easier for open s
 
 ## Neuroimaging
 
-1. BIDS
-2. BIDS-apps
+1. [BIDS and BIDS-apps](https://github.com/bids-standard/bids-specification/tree/master/BIDS_logo)
+   
+3. BIDS-apps
 
 ## Psychology
 1. 
